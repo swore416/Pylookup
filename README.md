@@ -1,2 +1,2 @@
--> Uses ipinfo api and ipquery api
--> Very simple lmao
+- Uses ipinfo api and ipquery api
+- Very simple lmao
